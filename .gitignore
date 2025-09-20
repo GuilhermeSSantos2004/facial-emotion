@@ -1,0 +1,23 @@
+# Ambiente virtual
+.venv/
+venv/
+
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Logs e dados temporários
+*.csv
+emotional_log.csv
+
+
+# VSCode
+.vscode/

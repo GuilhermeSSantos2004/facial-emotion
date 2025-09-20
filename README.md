@@ -63,7 +63,7 @@ Durante a execução, a janela exibe sliders para ajustar a sensibilidade do mod
 - Diminua **ALERTA_MS** → alertas aparecem mais rápido.  
 - Em caso de **raiva detectada** → aparece um **banner vermelho** na tela.  
 
-video: 
+video: https://youtu.be/gaItFyAYU20
 
 ---
 
